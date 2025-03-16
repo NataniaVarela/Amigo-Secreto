@@ -1,2 +1,2 @@
 <h1 align="center"> Amigo Secreto </h1>
-![Captura de pantalla 2025-03-15 210832](https://github.com/user-attachments/assets/33ddcb39-05a7-4953-bcf6-310e65e2d5e5)
+![Imagen amigo secreto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tonus.com.mx%2Fblog%2Famigosecreto2023&psig=AOvVaw0W5CaNbSmz1EYARgabGng3&ust=1742180913645000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDd-IrQjYwDFQAAAAAdAAAAABAT)
